@@ -1,1 +1,1 @@
-# MPProje
+![Uygulama Görseli](image.png)
